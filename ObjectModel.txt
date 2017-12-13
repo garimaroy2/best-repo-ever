@@ -1,0 +1,2 @@
+Object Model
+https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_erd_majors.htm
